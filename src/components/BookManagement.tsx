@@ -62,6 +62,30 @@ const BookManagement = () => {
           title: 'Lord of the Flies',
           author: 'William Golding',
           availability: 'Available'
+        },
+        {
+          id: '7',
+          title: 'Harry Potter and the Philosopher\'s Stone',
+          author: 'J.K. Rowling',
+          availability: 'Available'
+        },
+        {
+          id: '8',
+          title: 'The Hobbit',
+          author: 'J.R.R. Tolkien',
+          availability: 'Issued'
+        },
+        {
+          id: '9',
+          title: 'The Alchemist',
+          author: 'Paulo Coelho',
+          availability: 'Available'
+        },
+        {
+          id: '10',
+          title: 'One Hundred Years of Solitude',
+          author: 'Gabriel García Márquez',
+          availability: 'Available'
         }
       ]
       setBooks(sampleBooks)
